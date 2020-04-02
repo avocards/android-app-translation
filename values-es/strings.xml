@@ -1,0 +1,375 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name" translatable="false">Avocards</string>
+    <!-- TRANSLATE -->
+
+    <!-- Generic -->
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="apply">Apply</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="mail">You\'ve got mail</string>
+    <string name="we_sent_mail">We sent you an email. Tap the link in that email to reset your password.</string>
+    <string name="press_back_exit">Press back again to exit the app</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="refresh">Refresh</string>
+    <string name="restart">Restart</string>
+    <string name="back">Back</string>
+    <string name="forget">Forget</string>
+    <string name="loading">Loading…</string>
+    <string name="conti">Continue</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+
+    <!-- Screen titles -->
+    <string name="title_settings">Settings</string>
+    <string name="title_sound">Sound</string>
+    <string name="title_notification">Notifications</string>
+    <string name="title_reset">Reset Password</string>
+    <string name="title_review">Review</string>
+    <string name="title_upgrade">Avocards pro</string>
+
+    <!-- Navigation menu -->
+    <string name="menu_cards">Cards</string>
+    <string name="menu_my_voc">My Vocabulary</string>
+    <string name="menu_snapshot">Snapshot</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_test">Test your Korean</string>
+    <string name="menu_categories">Categories</string>
+    <string name="menu_review">Review session</string>
+
+    <!-- On Boarding Screens -->
+    <string name="study_words_with_avocards">Study words with\nAvocards</string>
+    <string name="receive_a_list_of_cards">Receive a list of\nword cards</string>
+    <string name="classify_a_card">Classify a card into\n 1 of 4 steps</string>
+    <string name="check_the_representation">Check the representation of your memory</string>
+    <string name="how_much_korean_do_you_know">How much Korean do you know?</string>
+    <string name="how_many_words_do_you_want_to_study_each_day">How many words do you want to study each day?</string>
+
+    <!-- Get Started View -->
+    <string name="start">Start</string>
+    <string name="get_started">Get Started</string>
+    <string name="already_a_member">Already a member? <u>Log in</u></string>
+
+    <!-- Login View -->
+    <string name="email_address">Email address</string>
+    <string name="password">Password</string>
+    <string name="or">or</string>
+    <string name="forgot_password"><u>Forgot Password?</u></string>
+    <string name="send">Send</string>
+    <string name="name">Name</string>
+    <string name="policy">By continuing, you agree to\nour <u>Terms</u> &amp; <u>Privacy Policy</u></string>
+    <string name="login">Login</string>
+    <string name="signup">Sign up</string>
+    <string name="sign_in_google">Sign up with Google</string>
+    <string name="login_google">Log in with Google</string>
+    <string name="sign_in_facebook">Sign up with Facebook</string>
+    <string name="login_facebook">Log in with Facebook</string>
+
+    <!-- Login View Errors -->
+    <string name="invalid_email">Email is invalid</string>
+    <string name="empty_email">Email is empty</string>
+    <string name="empty_password">Password is empty</string>
+    <string name="empty_email_password">Email or password is empty</string>
+    <string name="password_min_length">Password should be at least 6 characters</string>
+
+    <!-- My Cards -->
+    <string name="no_words_left">No words left in this category, please select different category</string>
+
+    <!-- Cards more menu -->
+    <string name="more_start_a_new_set">Start a new set</string>
+    <string name="more_start_a_new_sample">Start a new sample</string>
+
+    <!-- Card Content-->
+    <string name="step1">Don\'t know</string>
+    <string name="step2">Recognized</string>
+    <string name="step3">Memorized</string>
+    <string name="step4">Mastered</string>
+    <string name="card_tap_for_examples">Tap for examples</string>
+    <string name="card_new_top">New</string>
+
+    <!-- Card Content, word type-->
+    <string name="word_type_auxiliary_verb">auxiliary verb</string>
+    <string name="word_type_bound_noun">bound noun</string>
+    <string name="word_type_affix">affix</string>
+    <string name="word_type_interjection">interjection</string>
+    <string name="word_type_adverb">adverb</string>
+    <string name="word_type_adnominal_suffix" tools:ignore="Typos">adn. suffix</string>
+    <string name="word_type_adjective">adjective</string>
+    <string name="word_type_verb">verb</string>
+    <string name="word_type_eulogy">eulogy</string>
+    <string name="word_type_numeral">numeral</string>
+    <string name="word_type_pronoun">pronoun</string>
+    <string name="word_type_noun">noun</string>
+    <string name="word_type_whole">whole</string>
+
+    <!-- Onboarding My cards -->
+    <string name="onboarding_word">This is the word you want to learn.</string>
+    <string name="onboarding_sound">Tap on the sound icon to repeat the word.</string>
+    <string name="onboarding_example">Tap on the card to flip it and see the examples.</string>
+    <string name="onboarding_step1">Put this word in this step if it is completely new to you.</string>
+    <string name="onboarding_step2">Put the word here if you have seen the word a few times, but you have not memorized it yet.</string>
+    <string name="onboarding_step3">You can recognize and understand the word, but you can\'t use it on your own.</string>
+    <string name="onboarding_step4">The word is \'mastered\' when you can use it when you talk.</string>
+    <string name="onboarding_filters">Tap the filter icon to add filters on difficulties, steps or categories. You can also choose if you want to learn or review words.</string>
+
+    <!-- Congratulation View -->
+    <string name="awesome">Awesome!</string>
+    <string name="you_completed">You completed a set of %1$d words!</string>
+    <string name="you_completed_sample">You completed a sample of %1$d words!</string>
+    <string name="you_completed_goal">%1$d words out of your %2$d daily goal completed!</string>
+    <string name="you_completed_goal_congratulation">You completed your daily goal, congratulation!</string>
+    <string name="repeat_this_set">Repeat this set</string>
+
+    <!-- Congratulation Test View -->
+    <string name="onboarding_test_set">You will be given a set of words.</string>
+    <string name="onboarding_test_word">Your goal is to self-evaluate your Korean level. Do you know this word?</string>
+    <string name="onboarding_test_eye">Tap on the eye to see the full word with the definition and example.</string>
+    <string name="onboarding_test_dont">Did you know the word? If you did not know the word tap here.</string>
+    <string name="onboarding_test_do">If you knew the word, tap here.</string>
+    <string name="onboarding_test_complete">When you complete the set, you will be given an estimate of how many Korean words you know.</string>
+
+    <!-- Empty views -->
+    <string name="go_to_card">You have no words.\n Goto Cards to study.</string>
+    <string name="goto_card">Goto Cards</string>
+    <string name="empty_name">Name is empty</string>
+    <string name="card_back">Card back</string>
+    <string name="card_front">Card front</string>
+    <string name="no_results">No Results</string>
+    <string name="go_to_card_snapshot">You have no words for snapshot.\n Goto Cards to study.</string>
+
+    <!-- My Voc -->
+    <string name="hint_search_words">Search Words</string>
+    <string name="word_count">%s Words</string>
+
+    <!-- My Voc Filter Buttons-->
+    <string name="difficulty">Difficulty</string>
+    <string name="steps">Step</string>
+    <string name="category">Category</string>
+    <string name="difficulties_var">Difficulty (%1$s)</string>
+    <string name="steps_var">Steps (%1$s)</string>
+    <string name="categories_var">Category (%1$s)</string>
+
+    <!-- Filter Dialog -->
+    <string name="this_time_i_want_to">This time I want to</string>
+    <string name="learn_new_words">Learn\nNew Words</string>
+    <string name="review_words">Review\nWords</string>
+    <string name="do_both">Do\nBoth</string>
+    <string name="show_words_that_i">Show words that I</string>
+    <string name="add_category_filters">Add category filters</string>
+
+    <!-- Categories -->
+    <string name="categories">Categories</string>
+    <string name="cat_activities">Activities</string>
+    <string name="cat_personality">Personality</string>
+    <string name="cat_treatments">Treatments</string>
+    <string name="cat_work">Work Life</string>
+    <string name="cat_vegetables">Vegetables</string>
+    <string name="cat_transportation">Transportation</string>
+    <string name="cat_topik2">TOPIK II</string>
+    <string name="cat_topik1">TOPIK I</string>
+    <string name="cat_time">Time</string>
+    <string name="cat_senses">Senses</string>
+    <string name="cat_religion">Religion</string>
+    <string name="cat_political">Political</string>
+    <string name="cat_plants">Plants</string>
+    <string name="cat_ono">Onomatopoeia</string>
+    <string name="cat_numbers">Numbers</string>
+    <string name="cat_nature">Nature</string>
+    <string name="cat_money">Money</string>
+    <string name="cat_location">Location</string>
+    <string name="cat_judicial">Judicial</string>
+    <string name="cat_jobs">Jobs</string>
+    <string name="cat_disease">Disease</string>
+    <string name="cat_fruits">Fruits</string>
+    <string name="cat_frequency">Frequency</string>
+    <string name="cat_food">Food</string>
+    <string name="cat_flavors">Flavors</string>
+    <string name="cat_feelings">Feelings</string>
+    <string name="cat_family">Family</string>
+    <string name="cat_education">Education</string>
+    <string name="cat_directions">Directions</string>
+    <string name="cat_culture">Culture</string>
+    <string name="cat_counters">Counters</string>
+    <string name="cat_cooking">Cooking</string>
+    <string name="cat_colors">Colors</string>
+    <string name="cat_clothes">Clothes</string>
+    <string name="cat_climate">Climate</string>
+    <string name="cat_body">Body</string>
+    <string name="cat_beverages">Beverages</string>
+    <string name="cat_animals">Animals</string>
+
+    <!-- Test your Korean -->
+    <string name="click_to_reveal_the_card">Click to reveal the card</string>
+    <string name="choose_sample_size">Choose sample size</string>
+    <string name="result_words">You know approximately %1$d words</string>
+    <string name="result_beginner">Beginner words: %s</string>
+    <string name="result_intermediate">Intermediate words: %s</string>
+    <string name="result_advanced">Advanced words: %s</string>
+    <string name="don_t_know">Don\'t know</string>
+    <string name="know">Know</string>
+
+    <!-- Snapshot Views -->
+    <string name="today">Today</string>
+    <string name="history">History</string>
+    <string name="month">Month</string>
+    <string name="week">Week</string>
+
+    <!-- Snapshot Today View -->
+    <string name="in_your_memory">in your memory</string>
+
+    <!-- Difficulty -->
+    <string name="advanced">Advanced</string>
+    <string name="intermediate">Intermediate</string>
+    <string name="beginner">Beginner</string>
+    <string name="lvl">Level %d</string>
+
+    <!-- My Account -->
+    <string name="my_account">My Account</string>
+    <string name="you_know_beginner">You know %d beginner words</string>
+    <string name="you_know_intermediate">You know %d intermediate words</string>
+    <string name="you_know_advanced">You know %d advanced words</string>
+    <string name="next_level">Next level: \"%s\"</string>
+    <string name="my_progress">My progress</string>
+    <string name="progress_words">You are currently learning %d words</string>
+    <string name="day_streak_long">Longest Streak</string>
+    <string name="words_learned">Total Words</string>
+    <string name="daily_goal">Daily Count</string>
+    <string name="day_streak">Day Streak</string>
+
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="settings_create_account_to_save_progress">Create an account to save your progression</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_what_is_your_language">What is your main language?</string>
+    <string name="settings_switch_theme">Switch between light and dark mode</string>
+    <string name="settings_light_mode">Light Mode</string>
+    <string name="settings_theme">Theme</string>
+    <string name="settings_general">General</string>
+    <string name="settings_card_display_pref">Card display preferences</string>
+    <string name="settings_card_display">Card Display</string>
+    <string name="settings_autoplay_and_sound_icon">Autoplay and sound icon</string>
+    <string name="settings_goal_words_desc">How many words do you want to study every day?</string>
+    <string name="settings_goal_words">Daily word goal</string>
+    <string name="settings_rate_us">Rate us in the Play Store!</string>
+    <string name="settings_send_feedback">Send feedback</string>
+    <string name="settings_contact">Contact</string>
+    <string name="settings_send_us_any_feedback">Send us any feedback</string>
+    <string name="settings_logout">Logout</string>
+    <string name="settings_notification">Manage your notifications</string>
+    <string name="settings_sync">Sync data</string>
+    <string name="settings_review">Review priority and words</string>
+    <string name="settings_sync_summary">Data is sync on every launch. You can force a sync on clicking here</string>
+    <string name="settings_sync_success">Sync successful</string>
+    <string name="settings_sync_fail">Sync failed</string>
+    <string name="settings_sync_fail_no_account">You need to create an account to be able to sync your data</string>
+    <string name="settings_upgrade_desc">Go premium and unlock more features</string>
+    <string name="confirm_logout">Do you really want to logout from your Avocards account?</string>
+    <string name="confirm_logout_title">Are you sure?</string>
+    <string name="settings_help">Help us</string>
+    <string name="settings_help_dsc">Help us with the app translation</string>
+    <string name="settings_forget">Forget</string>
+    <string name="settings_forget_dsc">Forget all words you have learned</string>
+    <string name="confirm_forget">Do you really want to forget all the words you learned?</string>
+
+    <!-- Settings Display -->
+    <string name="title_display_pref">Card Display</string>
+    <string name="display_type_desc">Display type of word (noun, verb, etc…)</string>
+    <string name="display_type">Display type</string>
+    <string name="display_origin_desc">Display origin of the word on card</string>
+    <string name="display_origin">Display origin</string>
+    <string name="display_hanja_desc">Display Hanja (Chinese character) on card</string>
+    <string name="display_hanja">Display Hanja</string>
+    <string name="display_definition_desc">Display definition of the word on card</string>
+    <string name="display_definition">Display definition</string>
+    <string name="display_def_trans_desc">Display translation of the definition of the word on card</string>
+    <string name="display_def_trans">Display definition translation</string>
+    <string name="display_difficulty_desc">Display difficulty of the word</string>
+    <string name="display_difficulty">Display difficulty</string>
+    <string name="display_topik_desc">Display TOPIK level for the word</string>
+    <string name="display_topik">Display TOPIK label</string>
+    <string name="translate_examples_desc">Computer translation of examples</string>
+    <string name="translate_examples">Translate examples</string>
+    <string name="examples_translation">Examples translation</string>
+    <string name="warning_translation">While other translations are extracted from a dictionary and verified, the translations of examples are generated by a computer. The quality of this content is not guaranteed. If you don\'t want to proceed, please turn off the example translations.</string>
+
+    <!-- Settings Sound -->
+    <string name="autoplay_sound_desc">Play the word on card appearance</string>
+    <string name="autoplay_sound">Auto-play sounds</string>
+    <string name="display_sound_desc">Display sound icon on card</string>
+    <string name="display_sound">Display sound icon</string>
+    <string name="tts_desc">Use real human voice over text-to-speech machine voice.</string>
+    <string name="tts">Use real voice</string>
+    <string name="tts_female_desc">Use text-to-speech machine female or male voice.</string>
+    <string name="tts_female">Use female voice</string>
+
+    <!-- Settings Notifications -->
+    <string name="notifications_enable">Enable Notifications</string>
+    <string name="notifications_lvl_dsc">Send a notification when you level up</string>
+    <string name="notifications_lvl">Level notification</string>
+    <string name="notifications_reminder_number_dsc">How many words reminder per day do you want?</string>
+    <string name="notifications_reminder_number">Reminder number</string>
+    <string name="notifications_daily_reminder">Daily reminder</string>
+    <string name="notifications_daily_reminder_dsc">Send daily reminders as a word</string>
+    <string name="settings_enable_notifications">Enable notifications</string>
+
+    <!-- Download pop-up -->
+    <string name="start_download">Download the latest cards</string>
+    <string name="start_download_now">Starting…</string>
+    <string name="download_completed">Download success!</string>
+    <string name="download_ready">Ready</string>
+
+    <!-- New level notification -->
+    <string name="congratulation_next_level">Congratulation, you reach level %d!</string>
+
+    <!-- Next word to review notification -->
+    <string name="notification_time_review">It\'s time to review a word!</string>
+
+    <!-- Explore screen -->
+    <string name="explore_learn">Learn with proven methods</string>
+    <string name="explore_learn_desc">Avocards is based on a scientific method called spaced learning to help you learn in the most effective way. Just swipe, we take care of the rest.</string>
+    <string name="explore_save">Save your progress</string>
+    <string name="explore_save_desc">Using multiple devices? Worried to lose your progress? Save your progress in the cloud by creating an Avocard account.</string>
+    <string name="explore_offline">No Connection? No problem</string>
+    <string name="explore_offline_desc">Access all your cards and learn new words anywhere without network connection.</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="explore_ads">No more ads?</string>
+    <string name="explore_ads_desc">Avocards is helping thousands of people learning Korean for free. In order to exist and be able to pay our development costs and servers, we rely mostly on advertising. To remove ads and unlock more features, you can upgrade to a premium account for just a few dollars.</string>
+    <string name="explore_notifications">Forgot to learn today?</string>
+    <string name="explore_notifications_desc">Receive notifications with important words to learn. Check these few notifications throughout the day and learn new words seemingly.</string>
+    <string name="explore_categories">Learn words by topic?</string>
+    <string name="explore_categories_desc"><![CDATA[Bored to swipe unrelated words? Try swiping one of the 30+ different categories. TOPIK 1 & 2, food, fruits, animals, color, etc…]]></string>
+    <string name="explore_notifications_action">Customize Notifications</string>
+    <string name="explore_avocards">Explore Avocards</string>
+    <string name="learn_more">Learn more</string>
+
+    <!-- Rate my app view -->
+    <string name="maybe_later">Maybe later</string>
+    <string name="experience">How was your experience with us?</string>
+    <string name="feedback">Feedback</string>
+    <string name="tell_us">Tell us where we can improve</string>
+    <string name="submit">Submit</string>
+
+    <!-- Upgrade Page -->
+    <string name="start_trial_now">Start trial now</string>
+    <string name="start_trial">Start your 7-day free trial today.</string>
+    <string name="trial_summary">Get unlimited access to all content and features without ads for 7 days and 40% off if you stay for one year!</string>
+    <string name="price_month">%s / MO</string>
+    <string name="first_year">%s first year</string>
+    <string name="save_40">Save 40%</string>
+    <string name="months">months</string>
+    <string name="auto_renewal">Auto-renewal price - %s</string>
+    <string name="unlock_all_advanced_categories">Unlock all categories</string>
+    <string name="get_access_to_all_categories"><![CDATA[Get access to all categories including TOPIK I & II, work, politics, justice and many more.]]></string>
+    <string name="learn_offline">Learn offline</string>
+    <string name="download_all_cards">Download all cards - so next time you\'re on a plane or offline you can still continue learning.</string>
+    <string name="remove_ads">Remove ads</string>
+    <string name="remove_all_advertisements">Remove all advertisements from the app.</string>
+    <string name="support_us">Support us</string>
+    <string name="support_free_learning">Support free learning and help us improving the app, add more words and features and add more languages.</string>
+
+    <!-- Review view -->
+    <string name="review_session_completed">Review session completed</string>
+
+</resources>

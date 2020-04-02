@@ -1,0 +1,374 @@
+<resources xmlns:ns0="http://schemas.android.com/tools">
+    <!-- TRANSLATE -->
+    <string name="app_name" translatable="false">Avocartes</string>
+
+    <!-- Generic -->
+    <string name="cancel">Annuler</string>
+    <string name="ok">Ok</string>
+    <string name="apply">Appliquer</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="mail">Vous avez un e-mail</string>
+    <string name="we_sent_mail">Nous vous avons envoyé un e-mail. Appuyez sur le lien dans cet e-mail pour réinitialiser votre mot de passe.</string>
+    <string name="press_back_exit">Appuyez à nouveau pour quitter l\'application</string>
+    <string name="dark_mode">Mode nuit</string>
+    <string name="refresh">Rafraîchir</string>
+    <string name="restart">Redémarrer</string>
+    <string name="back">Retour</string>
+    <string name="forget">Oublier</string>
+    <string name="loading">Chargement…</string>
+    <string name="conti">Continuer</string>
+    <string name="skip">Passer</string>
+    <string name="next">Suivant</string>
+
+    <!-- Screen titles -->
+    <string name="title_settings">Réglages</string>
+    <string name="title_sound">Du son</string>
+    <string name="title_notification">Notifications</string>
+    <string name="title_reset">réinitialiser le mot de passe</string>
+    <string name="title_review">La revue</string>
+    <string name="title_upgrade">Avocartes pro</string>
+
+    <!-- Navigation menu -->
+    <string name="menu_cards">Cartes</string>
+    <string name="menu_my_voc">Mon vocabulaire</string>
+    <string name="menu_snapshot">Instantané</string>
+    <string name="menu_settings">Réglages</string>
+    <string name="menu_test">Testez votre coréen</string>
+    <string name="menu_categories">Catégories</string>
+    <string name="menu_review">Revoir</string>
+
+    <!-- On Boarding Screens -->
+    <string name="study_words_with_avocards">Étudier les mots avec \nAvocartes</string>
+    <string name="receive_a_list_of_cards">Recevoir une liste de mots</string>
+    <string name="classify_a_card">Classer une carte dans l\'une des 4 étapes</string>
+    <string name="check_the_representation">Vérifiez la représentation de votre mémoire</string>
+    <string name="how_much_korean_do_you_know">Quel est votre niveau de de coréen?</string>
+    <string name="how_many_words_do_you_want_to_study_each_day">Combien de mots souhaitez-vous étudier chaque jour?</string>
+
+    <!-- Get Started View -->
+    <string name="start">Commencer</string>
+    <string name="get_started">Commencer</string>
+    <string name="already_a_member">Déjà membre? <u>S\'identifier</u></string>
+
+    <!-- Login View -->
+    <string name="email_address">Adresse e-mail</string>
+    <string name="password">Mot de passe</string>
+    <string name="or">ou</string>
+    <string name="forgot_password"><u>Mot de passe oublié?</u></string>
+    <string name="send">Envoyer</string>
+    <string name="name">Nom</string>
+    <string name="policy">En continuant, vous acceptez nos\n<u>Conditions</u> &amp; <u>Politique de confidentialité</u></string>
+    <string name="login">S\'identifier</string>
+    <string name="signup">S\'inscrire</string>
+    <string name="sign_in_google">S\'inscrire avec Google</string>
+    <string name="login_google">Se connecter avec Google</string>
+    <string name="sign_in_facebook">S\'inscrire avec Facebook</string>
+    <string name="login_facebook">Se connecter avec Facebook</string>
+
+    <!-- Login View Errors -->
+    <string name="invalid_email">L\'email est invalide</string>
+    <string name="empty_email">L\'email est vide</string>
+    <string name="empty_password">Le mot de passe est vide</string>
+    <string name="empty_email_password">L\'email ou le mot de passe est vide</string>
+    <string name="password_min_length">Le mot de passe doit contenir au moins 6 caractères</string>
+
+    <!-- My Cards -->
+    <string name="no_words_left">Aucun mot restant dans cette catégorie, veuillez sélectionner une catégorie différente</string>
+
+    <!-- Cards more menu -->
+    <string name="more_start_a_new_set">Commencer un nouveau set</string>
+    <string name="more_start_a_new_sample">Démarrer un nouvel échantillon</string>
+
+    <!-- Card Content-->
+    <string name="step1">Inconnu</string>
+    <string name="step2">Reconnu</string>
+    <string name="step3">Mémorisé</string>
+    <string name="step4">Maîtrisé</string>
+    <string name="card_tap_for_examples">Appuyez pour voir des exemples</string>
+    <string name="card_new_top">Nouveau</string>
+
+    <!-- Card Content, word type-->
+    <string name="word_type_auxiliary_verb">verbe auxiliaire</string>
+    <string name="word_type_bound_noun">nom lié</string>
+    <string name="word_type_affix">affixe</string>
+    <string name="word_type_interjection">interjection</string>
+    <string name="word_type_adverb">adverbe</string>
+    <string name="word_type_adnominal_suffix" ns0:ignore="Typos">adn. suffixe</string>
+    <string name="word_type_adjective">adjectif</string>
+    <string name="word_type_verb">verbe</string>
+    <string name="word_type_eulogy">éloge</string>
+    <string name="word_type_numeral">numéral</string>
+    <string name="word_type_pronoun">pronom</string>
+    <string name="word_type_noun">nom</string>
+    <string name="word_type_whole">entier</string>
+
+    <!-- Onboarding My cards -->
+    <string name="onboarding_word">Le mot que vous voulez apprendre.</string>
+    <string name="onboarding_sound">Appuyez sur l\'icône de son pour répéter le mot.</string>
+    <string name="onboarding_example">Appuyez sur la carte pour la retourner et voir les exemples.</string>
+    <string name="onboarding_step1">Mettez ce mot dans cette étape s\'il est complètement nouveau pour vous.</string>
+    <string name="onboarding_step2">Mettez le mot ici si vous l\'avez vu plusieurs fois, mais que vous ne l\'avez pas encore mémorisé.</string>
+    <string name="onboarding_step3">Vous pouvez reconnaître et comprendre le mot, mais vous ne pouvez pas l\'utiliser seul.</string>
+    <string name="onboarding_step4">Le mot est \'maîtrisé \' lorsque vous pouvez l\'utiliser lorsque vous parlez.</string>
+    <string name="onboarding_filters">Appuyez sur l\'icône de filtre pour ajouter des filtres sur la difficultée, les étapes ou les catégories. Vous pouvez également choisir si vous souhaitez apprendre ou réviser des mots.</string>
+
+    <!-- Congratulation View -->
+    <string name="awesome">Impressionnant!</string>
+    <string name="you_completed">Vous avez terminé un ensemble de %1$d mots!</string>
+    <string name="you_completed_sample">Vous avez complété un échantillon de %1$d mots!</string>
+    <string name="you_completed_goal">%1$d mots sur votre objectif quotidien de %2$d terminés!</string>
+    <string name="you_completed_goal_congratulation">Vous avez atteint votre objectif quotidien, félicitations!</string>
+    <string name="repeat_this_set">Répétez ce set</string>
+
+    <!-- Congratulation Test View -->
+    <string name="onboarding_test_set">Vous recevrez un set de mots.</string>
+    <string name="onboarding_test_word">Votre objectif est d\'auto-évaluer votre niveau coréen. Connaissez-vous ce mot?</string>
+    <string name="onboarding_test_eye">Appuyez sur l\'œil pour voir le mot complet avec la définition et les exemples.</string>
+    <string name="onboarding_test_dont">Connaissiez-vous le mot? Si vous ne connaissez pas le mot, appuyez ici.</string>
+    <string name="onboarding_test_do">Si vous connaissiez le mot, appuyez ici.</string>
+    <string name="onboarding_test_complete">Lorsque vous aurez terminé le set, vous recevrez une estimation du nombre de mots que vous connaissez.</string>
+
+    <!-- Empty views -->
+    <string name="go_to_card">Vous n\'avez pas de mots.\nAllez aux cartes.</string>
+    <string name="goto_card">Aller aux Cartes</string>
+    <string name="empty_name">Le nom est vide</string>
+    <string name="card_back">Verso de la carte</string>
+    <string name="card_front">Recto de la carte</string>
+    <string name="no_results">Aucun résultat</string>
+    <string name="go_to_card_snapshot">Vous n\'avez pas de mots. \n Allez aux cartes.</string>
+
+    <!-- My Voc -->
+    <string name="hint_search_words">Rechercher des mots</string>
+    <string name="word_count">%s mots</string>
+
+    <!-- My Voc Filter Buttons-->
+    <string name="difficulty">Difficulté</string>
+    <string name="steps">Etape</string>
+    <string name="category">Catégorie</string>
+    <string name="difficulties_var">Difficulté ( %1$s)</string>
+    <string name="steps_var">Étapes ( %1$s)</string>
+    <string name="categories_var">Catégorie ( %1$s)</string>
+
+    <!-- Filter Dialog -->
+    <string name="this_time_i_want_to">Cette fois, je veux</string>
+    <string name="learn_new_words">Apprendre de \nnouveaux mots</string>
+    <string name="review_words">Réviser des mots</string>
+    <string name="do_both">Faire \nles deux</string>
+    <string name="show_words_that_i">Filtrer les mots</string>
+    <string name="add_category_filters">Ajouter des filtres par catégorie</string>
+
+    <!-- Categories -->
+    <string name="categories">Catégories</string>
+    <string name="cat_activities">Activités</string>
+    <string name="cat_personality">Personnalité</string>
+    <string name="cat_treatments">Traitements</string>
+    <string name="cat_work">Travail</string>
+    <string name="cat_vegetables">Légumes</string>
+    <string name="cat_transportation">Transport</string>
+    <string name="cat_topik2">TOPIK II</string>
+    <string name="cat_topik1">TOPIK I</string>
+    <string name="cat_time">Temps</string>
+    <string name="cat_senses">Sens</string>
+    <string name="cat_religion">Religion</string>
+    <string name="cat_political">Politique</string>
+    <string name="cat_plants">Plantes</string>
+    <string name="cat_ono">Onomatopée</string>
+    <string name="cat_numbers">Nombres</string>
+    <string name="cat_nature">Nature</string>
+    <string name="cat_money">Argent</string>
+    <string name="cat_location">Emplacement</string>
+    <string name="cat_judicial">Judiciaire</string>
+    <string name="cat_jobs">Emplois</string>
+    <string name="cat_disease">Maladie</string>
+    <string name="cat_fruits">Fruits</string>
+    <string name="cat_frequency">Fréquence</string>
+    <string name="cat_food">Nourriture</string>
+    <string name="cat_flavors">Saveurs</string>
+    <string name="cat_feelings">Sentiments</string>
+    <string name="cat_family">Famille</string>
+    <string name="cat_education">Éducation</string>
+    <string name="cat_directions">instructions</string>
+    <string name="cat_culture">Culture</string>
+    <string name="cat_counters">Compteurs</string>
+    <string name="cat_cooking">Cuisine</string>
+    <string name="cat_colors">Couleurs</string>
+    <string name="cat_clothes">Vêtements</string>
+    <string name="cat_climate">Climat</string>
+    <string name="cat_body">Corps</string>
+    <string name="cat_beverages">Breuvages</string>
+    <string name="cat_animals">Animaux</string>
+
+    <!-- Test your Korean -->
+    <string name="click_to_reveal_the_card">Cliquez pour révéler la carte</string>
+    <string name="choose_sample_size">Choisissez la taille de l\'échantillon</string>
+    <string name="result_words">Vous connaissez environ %1$d mots</string>
+    <string name="result_beginner">Mots débutants: %s</string>
+    <string name="result_intermediate">Mots intermédiaires: %s</string>
+    <string name="result_advanced">Mots avancés: %s</string>
+    <string name="don_t_know">Inconnu</string>
+    <string name="know">Connu</string>
+
+    <!-- Snapshot Views -->
+    <string name="today">Aujourd\'hui</string>
+    <string name="history">Progression</string>
+    <string name="month">Mois</string>
+    <string name="week">Semaine</string>
+
+    <!-- Snapshot Today View -->
+    <string name="in_your_memory">dans votre mémoire</string>
+
+    <!-- Difficulty -->
+    <string name="advanced">Avancée</string>
+    <string name="intermediate">Intermédiaire</string>
+    <string name="beginner">Débutant</string>
+    <string name="lvl">Niveau %d</string>
+
+    <!-- My Account -->
+    <string name="my_account">Mon compte</string>
+    <string name="you_know_beginner">Vous connaissez %d mots pour débutants</string>
+    <string name="you_know_intermediate">Vous connaissez %d mots intermédiaires</string>
+    <string name="you_know_advanced">Vous connaissez %d mots avancés</string>
+    <string name="next_level">Niveau suivant: \" %s \"</string>
+    <string name="my_progress">Mon progrès</string>
+    <string name="progress_words">Vous apprenez actuellement %d mots</string>
+    <string name="day_streak_long">Longue Série</string>
+    <string name="words_learned">Total des mots</string>
+    <string name="daily_goal">Objectif\ndu jour</string>
+    <string name="day_streak">Série en cours</string>
+
+    <!-- Settings -->
+    <string name="settings">Réglages</string>
+    <string name="settings_create_account_to_save_progress">Créez un compte pour sauvegarder votre progression</string>
+    <string name="settings_language">Langue</string>
+    <string name="settings_what_is_your_language">Quelle est votre langue principale?</string>
+    <string name="settings_switch_theme">Basculer entre le mode jour et le mode nuit</string>
+    <string name="settings_light_mode">Mode jour</string>
+    <string name="settings_theme">Thème</string>
+    <string name="settings_general">Général</string>
+    <string name="settings_card_display_pref">Préférences d\'affichage des cartes</string>
+    <string name="settings_card_display">Affichage des cartes</string>
+    <string name="settings_autoplay_and_sound_icon">Lecture automatique et son</string>
+    <string name="settings_goal_words_desc">Combien de mots souhaitez-vous étudier chaque jour?</string>
+    <string name="settings_goal_words">Objectif quotidien de mots</string>
+    <string name="settings_rate_us">Évaluez-nous dans le Play Store!</string>
+    <string name="settings_send_feedback">Envoyer des commentaires</string>
+    <string name="settings_contact">Contact</string>
+    <string name="settings_send_us_any_feedback">Envoyez-nous vos commentaires</string>
+    <string name="settings_logout">Se déconnecter</string>
+    <string name="settings_notification">Gérez vos notifications</string>
+    <string name="settings_sync">Synchroniser les données</string>
+    <string name="settings_review">Revoir la priorité et les mots</string>
+    <string name="settings_sync_summary">Les données sont synchronisées à chaque lancement. Vous pouvez forcer une synchronisation en cliquant ici</string>
+    <string name="settings_sync_success">Synchronisation réussie</string>
+    <string name="settings_sync_fail">Échec de la synchronisation</string>
+    <string name="settings_sync_fail_no_account">Vous devez créer un compte pour pouvoir synchroniser vos données</string>
+    <string name="settings_upgrade_desc">Devenez premium et débloquez plus de fonctionnalités</string>
+    <string name="confirm_logout">Voulez-vous vraiment vous déconnecter de votre compte Avocartes?</string>
+    <string name="confirm_logout_title">Êtes-vous sûr?</string>
+    <string name="settings_help">Aidez-nous</string>
+    <string name="settings_help_dsc">Aidez-nous avec la traduction de l\'application</string>
+    <string name="settings_forget">Oublier</string>
+    <string name="settings_forget_dsc">Oubliez tous les mots que vous avez appris</string>
+    <string name="confirm_forget">Voulez-vous vraiment oublier tous les mots que vous avez appris?</string>
+
+    <!-- Settings Display -->
+    <string name="title_display_pref">Affichage des cartes</string>
+    <string name="display_type_desc">Afficher le type de mot (nom, verbe, etc…)</string>
+    <string name="display_type">Type d\'affichage</string>
+    <string name="display_origin_desc">Afficher l\'origine du mot sur la carte</string>
+    <string name="display_origin">Afficher l\'origine</string>
+    <string name="display_hanja_desc">Afficher Hanja (caractère chinois) sur la carte</string>
+    <string name="display_hanja">Afficher Hanja</string>
+    <string name="display_definition_desc">Afficher la définition du mot sur la carte</string>
+    <string name="display_definition">Définition d\'affichage</string>
+    <string name="display_def_trans_desc">Afficher la traduction de la définition du mot sur la carte</string>
+    <string name="display_def_trans">Afficher la traduction de la définition</string>
+    <string name="display_difficulty_desc">Difficulté d\'affichage du mot</string>
+    <string name="display_difficulty">Difficulté d\'affichage</string>
+    <string name="display_topik_desc">Afficher le niveau TOPIK pour le mot</string>
+    <string name="display_topik">Afficher l\'étiquette TOPIK</string>
+    <string name="translate_examples_desc">Traduction automatique des exemples</string>
+    <string name="translate_examples">Traduire les exemples</string>
+    <string name="examples_translation">Exemples de traduction</string>
+    <string name="warning_translation">Alors que d\'autres traductions sont extraites d\'un dictionnaire et vérifiées, les traductions d\'exemples sont générées par un ordinateur. La qualité de ce contenu n\'est pas garantie. Si vous ne souhaitez pas continuer, veuillez désactiver les exemples de traductions.</string>
+
+    <!-- Settings Sound -->
+    <string name="autoplay_sound_desc">Jouez le mot quand la carte apparait</string>
+    <string name="autoplay_sound">Sons de lecture automatique</string>
+    <string name="display_sound_desc">Afficher l\'icône de son sur la carte</string>
+    <string name="display_sound">Afficher l\'icône de son</string>
+    <string name="tts_desc">Utilisez une voix humaine.</string>
+    <string name="tts">Utilisez une vraie voix</string>
+    <string name="tts_female_desc">Utilisez une voix féminine ou masculine (machine).</string>
+    <string name="tts_female">Utiliser une voix féminine (machine)</string>
+
+    <!-- Settings Notifications -->
+    <string name="notifications_enable">Activer les notifications</string>
+    <string name="notifications_lvl_dsc">Envoyer une notification lorsque vous montez de niveau</string>
+    <string name="notifications_lvl">Notification de niveau</string>
+    <string name="notifications_reminder_number_dsc">Combien de rappels de mots par jour voulez-vous?</string>
+    <string name="notifications_reminder_number">Nombre de rappels</string>
+    <string name="notifications_daily_reminder">Rappel quotidien</string>
+    <string name="notifications_daily_reminder_dsc">Envoyez des rappels quotidiens</string>
+    <string name="settings_enable_notifications">Activer les notifications</string>
+
+    <!-- Download pop-up -->
+    <string name="start_download">Téléchargez les dernières cartes</string>
+    <string name="start_download_now">Commencer…</string>
+    <string name="download_completed">Téléchargement réussi!</string>
+    <string name="download_ready">Prêt</string>
+
+    <!-- New level notification -->
+    <string name="congratulation_next_level">Félicitations, vous atteignez le niveau %d!</string>
+
+    <!-- Next word to review notification -->
+    <string name="notification_time_review">Il est temps de revoir!</string>
+
+    <!-- Explore screen -->
+    <string name="explore_learn">Apprenez avec des méthodes éprouvées</string>
+    <string name="explore_learn_desc">Avocartes est basé sur une méthode scientifique appelée apprentissage espacé pour vous aider à apprendre de la manière la plus efficace. Swipper simplement, nous nous occupons du reste.</string>
+    <string name="explore_save">Sauvegardez vos progrès</string>
+    <string name="explore_save_desc">Vous utilisez plusieurs appareils? Vous avez peur de perdre votre progression? Enregistrez votre progression dans le cloud en créant un compte Avocard.</string>
+    <string name="explore_offline">Pas de connection? aucun problème</string>
+    <string name="explore_offline_desc">Accédez à toutes vos cartes et apprenez de nouveaux mots n\'importe où sans connexion Internet.</string>
+    <string name="upgrade">Premium</string>
+    <string name="explore_ads">Plus de pub?</string>
+    <string name="explore_ads_desc">Avocartes aide des milliers de personnes à apprendre le coréen gratuitement. Pour exister et pouvoir payer nos frais de développement et nos serveurs, nous comptons principalement sur la publicité. Pour supprimer des publicités et débloquer plus de fonctionnalités, vous pouvez passer à un compte premium pour seulement quelques euros.</string>
+    <string name="explore_notifications">Vous avez oublié d\'apprendre aujourd\'hui?</string>
+    <string name="explore_notifications_desc">Recevez des notifications avec des mots importants à apprendre. Vérifiez ces quelques notifications tout au long de la journée et apprenez de nouveaux mots sans efforts.</string>
+    <string name="explore_categories">Apprenez des mots par categorie</string>
+    <string name="explore_categories_desc">Lassé de swipper des mots sans rapport? Essayez de faire swipper l\'une des 30+ catégories différentes.</string>
+    <string name="explore_notifications_action">Notifications</string>
+    <string name="explore_avocards">Explorez Avocartes</string>
+    <string name="learn_more">Plus d\'informations</string>
+
+    <!-- Rate my app view -->
+    <string name="maybe_later">Plus tard</string>
+    <string name="experience">Quelle a été votre expérience avec Avocartes?</string>
+    <string name="feedback">Retour d\'information</string>
+    <string name="tell_us">Dites-nous où nous pouvons nous améliorer</string>
+    <string name="submit">Envoyer</string>
+
+    <!-- Upgrade Page -->
+    <string name="start_trial_now">Commencez votre essai maintenant</string>
+    <string name="start_trial">Commencez votre essai gratuit de 7 jours dès aujourd\'hui.</string>
+    <string name="trial_summary">Obtenez un accès illimité à tous les contenus et fonctionnalités sans publicité pendant 7 jours et 40% de réduction si vous restez un an!</string>
+    <string name="price_month">%s / Mois</string>
+    <string name="first_year">%s 1ère année</string>
+    <string name="save_40">Solde 40%</string>
+    <string name="months">mois</string>
+    <string name="auto_renewal">Prix ​​de renouvellement automatique - %s</string>
+    <string name="unlock_all_advanced_categories">Déverrouillez toutes les catégories</string>
+    <string name="get_access_to_all_categories"><![CDATA[Accédez à toutes les catégories, y compris TOPIK I & II, travail, politique, justice et bien d\'autres.]]></string>
+    <string name="learn_offline">Apprenez hors ligne</string>
+    <string name="download_all_cards">Téléchargez toutes les cartes. Ainsi, la prochaine fois que vous serez dans un avion ou hors ligne, vous pourrez continuer à apprendre.</string>
+    <string name="remove_ads">Supprimez la pub</string>
+    <string name="remove_all_advertisements">Supprimez toutes les publicités de l\'application.</string>
+    <string name="support_us">Soutenez-nous</string>
+    <string name="support_free_learning">Soutenez l\'apprentissage gratuit et aidez-nous à améliorer l\'application, à ajoutez plus de mots et de fonctionnalités et à ajoutez plus de langues.</string>
+
+    <!-- Review view -->
+    <string name="review_session_completed">Revision terminée</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <plurals name="word_highlight">
+        <item quantity="one">%1$d word you \'%2$s\'</item>
+        <item quantity="other">%1$d words you \'%2$s\'</item>
+    </plurals>
+
+    <plurals name="words_total">
+        <item quantity="one">%1$s word</item>
+        <item quantity="other">%1$s words</item>
+    </plurals>
+</resources>
