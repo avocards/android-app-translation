@@ -13,4 +13,14 @@
         <item>Russe</item>
         <item>Coréen</item>
     </string-array>
+
+        <!--  Quotes  -->
+    <string-array name="quotes">
+        <item>Une langue différente est une vision différente de la vie.</item>
+        <item>On n\'apprend bien qu\'à force de se tromper.</item>
+        <item>En faisant on apprend.</item>
+        <item>Qui est joyeux d\'apprendre deviendra maître un jour.</item>
+        <item>Apprendre une nouvelle langue, c\'est acquérir une nouvelle âme.</item>
+        <item>Une langue vous place dans un couloir pour la vie. Deux langues vous ouvrent toutes les portes le long du chemin.</item>
+    </string-array>
 </resources>

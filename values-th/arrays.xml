@@ -13,4 +13,14 @@
         <item>Russian</item>
         <item>Korean</item>
     </string-array>
+
+    <!--  Quotes  -->
+    <string-array name="quotes">
+        <item>Learning is not attained by chance, it must be sought for with ardor and attended to with diligence.</item>
+        <item>You don\'t have to be great to start, but you have to start to be great.</item>
+        <item>Be stubborn about your goals and flexible about your methods.</item>
+        <item>Nothing will work unless you do.</item>
+        <item>Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.</item>
+        <item>Live as if you were to die tomorrow. Learn as if you were to live forever.</item>
+    </string-array>
 </resources>
